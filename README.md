@@ -1,4 +1,10 @@
-## The Advanced Computing Center for Research and Education
+# Team DS 6 Project - with team Pizza
+
+This project was a collaboration between [Hayden Greer](https://github.com/hcgreer), [Monica Weiss-Sharp](https://github.com/MWeissSharp) and myself. We each worked on our individual branches and discussed what we were working on, exchanging feedback.
+
+Lastly, we pulled our work together into google site presentation [available here](https://sites.google.com/view/vanderbilt-accre-analysis/home), with some additional interactive tables and plots contained at the end of my notebook.
+
+# The Advanced Computing Center for Research and Education
 
 The Advanced Computing Center for Research and Education (ACCRE) is a computer cluster serving the high-performance computing needs of research for Vanderbilt University. In this data question, you will be analyzing data on jobs run on ACCRE's hardware.
 
